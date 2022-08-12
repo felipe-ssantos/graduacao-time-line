@@ -29,7 +29,7 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
     <li><a href="./02-semestre-2022/eng_de_software/README.md" style="text-decoration:none;">🔄<i> Engenharia de Software </i></a></li>
     <li><a href="./02-semestre-2022/gestao_de_projetos/README.md" style="text-decoration:none;">🔄<i> Gestão de Projetos </i></a>Update: 17/10/2022</li>
     <li><a href="./02-semestre-2022/negocios_e_empreendedorismo/README.md" style="text-decoration:none;">🔄<i> Processo de Negócios e Empreendedorismo </i></a></li>
-    <li><a href="./02-semestre-2022/sistemas_operacionais/README.md/README.md" style="text-decoration:none;">🔄<i> Sistemas Operacionais </i></a></li>
+    <li><a href="./02-semestre-2022/sistemas_operacionais/README.md" style="text-decoration:none;">🔄<i> Sistemas Operacionais </i></a></li>
   </ul>
 </details>
 
