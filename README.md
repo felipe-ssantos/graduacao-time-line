@@ -38,7 +38,7 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
   <ul>
     <li><a href="./03-semestre-2023/antropologia_e_cultura_brasileira/README.md" style="text-decoration:none;">🔄<i> Antropologia e Cultura Brasileira </i></a></li>
     <li><a href="./03-semestre-2023/programacao_orientada_a_objeto/README.md" style="text-decoration:none;">🔄<i> Programação Orienta a Objetos</i></a></li>
-    <li><a href="..03-semestre-2023/praticas_de_engenharia_de_software/README.md" style="text-decoration:none;">🔄<i> Práticas de Engenharia de Software </i></a></li>
+    <li><a href="./03-semestre-2023/praticas_de_engenharia_de_software/README.md" style="text-decoration:none;">🔄<i> Práticas de Engenharia de Software </i></a></li>
     <li><a href="./03-semestre-2023/desenvolvimento_web_cliente/README.md" style="text-decoration:none;">🔄<i> Desenvolvimento Web Cliente </i></a></li>
     <li><a href="./03-semestre-2023/redes_de_computadores/README.md" style="text-decoration:none;">🔄<i> Redes de Computadores </i></a></li>
     <li><a href="./03-semestre-2023/praticas_de_banco_de_dados/README.md" style="text-decoration:none;">🔄<i> Práticas de Banco de Dados </i></a></li>
