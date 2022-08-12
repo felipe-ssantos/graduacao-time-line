@@ -9,8 +9,7 @@
   - Entidade fraca/forte e relacionamento identificador;
   - Especialização/generalização;
   - Modelagem lógica relacional;
-  - Notações do diagrama em ferramentas de modelagem;
-  - Modelagem lógica relacional;
+  - Notações do diagrama em ferramentas de modelagem;  
   - Normalização.
   
   
