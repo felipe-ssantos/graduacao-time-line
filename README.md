@@ -10,7 +10,7 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
 
 <details>
   <summary>🔄 <b>1° Semestre</b></summary>
-  <ul>
+  <ul> Iniciado dia 02/05/2022
     <li><a href="./01-semestre-2022/logica_de_programacao/README.md" style="text-decoration:none;">✅<i> Lógica de programação </i></a></li>
     <li><a href="./01-semestre-2022/teoria_de_sistemas_de_informacao/README.md" style="text-decoration:none;">✅<i> Teoria de Sistemas de Informação </i></a></li>
     <li><a href="./01-semestre-2022/comunicacao/README.md" style="text-decoration:none;">✅<i> Comunicação </i></a></li>
