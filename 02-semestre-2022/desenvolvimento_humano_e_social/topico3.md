@@ -4,7 +4,7 @@
 
 <h2> 🧠 Conhecimento adquirido </h2>
 
-- **O Mundo Pós-Moderno une ou Separa os Indivíduos:**
+- **O Mundo Pós-Moderno une ou Separa os Indivíduos?**
 
   - Os principais pontos característicos da formação de um pensamento moderno;
 
