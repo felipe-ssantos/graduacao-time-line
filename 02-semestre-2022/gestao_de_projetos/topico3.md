@@ -6,7 +6,7 @@
 
 - **Gestão de Qualidade:**
   - Conceitos de qualidade;
-  - Gerenciamento da qualid
+  - Gerenciamento da qualidade.
 
 - **Gestão dos Recursos Humanos**:
   - Processos para gestão de recursos humanos;
