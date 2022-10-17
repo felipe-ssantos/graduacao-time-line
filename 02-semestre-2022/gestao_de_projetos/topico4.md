@@ -1,4 +1,4 @@
-<h1>🏌🏻‍♂️Gestão das Aquisições</h1>
+<h1>🏌🏻‍♂️Gestão de Aquisições</h1>
 
 <br>
 
