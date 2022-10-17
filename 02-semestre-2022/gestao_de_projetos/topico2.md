@@ -6,7 +6,7 @@
 
 - **Partes interessadas:**
   
-  - Identificar partes interessada no projeto;
+  - Identificar partes interessadas no projeto;
   - Planejar, gerenciar e controlar partes.
   
 - **Gestão do Escopo:**
