@@ -68,7 +68,6 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
     <li><a href="./optativa/README.md" style="text-decoration:none;">🔄<i> Optativa </i></a></li>    
   </ul>
 </details>
-<br>
 
 ------
 
