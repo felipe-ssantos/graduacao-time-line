@@ -75,5 +75,5 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
 
 <a href="https://www.linkedin.com/in/nfss17/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 ------
-*Atualizado: 17.10.2022*
+> *Atualizado: 17.10.2022*
 
