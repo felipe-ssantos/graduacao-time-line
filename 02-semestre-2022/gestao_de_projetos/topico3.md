@@ -17,7 +17,7 @@
   - Comunicação no envolvimento e engajamento das partes interessadas.
 
 - **Gestão de Risco**:
-  - Identificação e analise riscos;
+  - Identificação e analise de riscos;
   - Elaboração das respostas aos risco.
 
 
