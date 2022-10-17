@@ -18,7 +18,7 @@
 
 - **Gestão de Risco**:
   - Identificação e analise de risco;
-  - Elaboração das respostas aos risco.
+  - Elaboração das respostas aos riscos.
 
 
 <br><br>
