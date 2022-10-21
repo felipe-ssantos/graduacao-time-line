@@ -14,8 +14,8 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
     <li><a href="./01-semestre-2022/logica_de_programacao/README.md" style="text-decoration:none;">✅<i> Lógica de programação </i></a></li>
     <li><a href="./01-semestre-2022/teoria_de_sistemas_de_informacao/README.md" style="text-decoration:none;">✅<i> Teoria de Sistemas de Informação </i></a></li>
     <li><a href="./01-semestre-2022/comunicacao/README.md" style="text-decoration:none;">✅<i> Comunicação </i></a></li>
-    <li><a href="./01-semestre-2022/midias_sociais_e_marketing_digital/README.md" style="text-decoration:none;">🔄<i> Mídias Sociais e Marketing Digital</i></a>(pendente)</li>
-    <li><a href="./01-semestre-2022/design_para_web/README.md" style="text-decoration:none;">🔄<i> Design para Web</i></a>(pendente)</li>
+    <li><a href="./01-semestre-2022/midias_sociais_e_marketing_digital/README.md" style="text-decoration:none;">🔄<i> Mídias Sociais e Marketing Digital</i></a> (pendente)</li>
+    <li><a href="./01-semestre-2022/design_para_web/README.md" style="text-decoration:none;">🔄<i> Design para Web</i></a> (pendente)</li>
     <li><a href="./01-semestre-2022/interface_humano_computador/README.md" style="text-decoration:none;">🔄<i> Interface Humana computador</i></a> (pendente)</li>
   </ul>
   <p>Obs: Essas outras atividades que estão pendentes serão concluídas em outro semestre, que ainda será informado pela universidade. Isso aconteceu porque eu ingressei na metade do semestre, quando essas disciplinas já haviam se encerrado.</p>
