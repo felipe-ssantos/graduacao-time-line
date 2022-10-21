@@ -14,9 +14,9 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
     <li><a href="./01-semestre-2022/logica_de_programacao/README.md" style="text-decoration:none;">✅<i> Lógica de programação </i></a></li>
     <li><a href="./01-semestre-2022/teoria_de_sistemas_de_informacao/README.md" style="text-decoration:none;">✅<i> Teoria de Sistemas de Informação </i></a></li>
     <li><a href="./01-semestre-2022/comunicacao/README.md" style="text-decoration:none;">✅<i> Comunicação </i></a></li>
-    <li><a href="./01-semestre-2022/midias_sociais_e_marketing_digital/README.md" style="text-decoration:none;">🔄<i> Mídias Sociais e Marketing Digital </i></a></li>
-    <li><a href="./01-semestre-2022/design_para_web/README.md" style="text-decoration:none;">🔄<i> Design para Web </i></a></li>
-    <li><a href="./01-semestre-2022/interface_humano_computador/README.md" style="text-decoration:none;">🔄<i> Interface Humana computador </i></a></li>
+    <li><a href="./01-semestre-2022/midias_sociais_e_marketing_digital/README.md" style="text-decoration:none;">🔄<i> Mídias Sociais e Marketing Digital (pendente)</i></a></li>
+    <li><a href="./01-semestre-2022/design_para_web/README.md" style="text-decoration:none;">🔄<i> Design para Web (pendente)</i></a></li>
+    <li><a href="./01-semestre-2022/interface_humano_computador/README.md" style="text-decoration:none;">🔄<i> Interface Humana computador (pendente)</i></a></li>
   </ul>
   <p>Obs: Essas outras atividades que estão pendentes serão concluídas em outro semestre, que ainda será informado pela universidade. Isso aconteceu porque eu ingressei na metade do semestre, quando essas disciplinas já haviam se encerrado.</p>
 </details>
@@ -26,9 +26,9 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
   <summary>🔄 <b>2° Semestre</b></summary>
   <ul> Iniciado dia 10/08/2022
     <li><a href="./02-semestre-2022/banco_de_dados/README.md" style="text-decoration:none;">✅<i> Banco de Dados </i></a></li>
-    <li><a href="./02-semestre-2022/desenvolvimento_humano_e_social/README.md" style="text-decoration:none;">🔄<i> Desenvolvimento Humano e Social </i></a>update: 17/10/2022 / em andamento </li> 
+    <li><a href="./02-semestre-2022/desenvolvimento_humano_e_social/README.md" style="text-decoration:none;">🔄<i> Desenvolvimento Humano e Social </i></a>update: 17/10/2022 (em andamento) </li> 
     <li><a href="./02-semestre-2022/eng_de_software/README.md" style="text-decoration:none;">✅<i> Engenharia de Software </i></a></li>
-    <li><a href="./02-semestre-2022/gestao_de_projetos/README.md" style="text-decoration:none;">🔄<i> Gestão de Projetos </i></a>update: 17/10/2022 / em andamento </li>
+    <li><a href="./02-semestre-2022/gestao_de_projetos/README.md" style="text-decoration:none;">🔄<i> Gestão de Projetos </i></a>update: 17/10/2022 (em andamento) </li>
     <li><a href="./02-semestre-2022/negocios_e_empreendedorismo/README.md" style="text-decoration:none;">✅<i> Processo de Negócios e Empreendedorismo </i></a></li>
     <li><a href="./02-semestre-2022/sistemas_operacionais/README.md" style="text-decoration:none;">✅<i> Sistemas Operacionais </i></a></li>
   </ul>
