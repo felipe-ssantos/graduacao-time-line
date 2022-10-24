@@ -6,7 +6,7 @@
 #define NUMERO_DE_TENTATIVAS 5
 int main() {
 
-	// Define o valor das páginas de código UTF-8 e default do Windows
+	// Define o valor das páginas de código UTF-8 e default do Windows.
   	UINT CPAGE_UTF8 = 65001;
   	UINT CPAGE_DEFAULT = GetConsoleOutputCP();
 
