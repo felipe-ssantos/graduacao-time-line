@@ -9,7 +9,7 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
 <br>
 
 <details>
-  <summary>🔄 <b>1° Semestre</b></summary>
+  <summary>✅<b>1° Semestre</b></summary>
   <ul> Iniciado dia 02/05/2022
     <li><a href="./01-semestre-2022/logica_de_programacao/README.md" style="text-decoration:none;">✅<i> Lógica de programação </i></a></li>
     <li><a href="./01-semestre-2022/teoria_de_sistemas_de_informacao/README.md" style="text-decoration:none;">✅<i> Teoria de Sistemas de Informação </i></a></li>
@@ -23,7 +23,7 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
 
 
 <details>
-  <summary>🔄 <b>2° Semestre</b></summary>
+  <summary>✅<b>2° Semestre</b></summary>
   <ul> Iniciado dia 10/08/2022 - Encerrado dia 20/12/2022
     <li><a href="./02-semestre-2022/banco_de_dados/README.md" style="text-decoration:none;">✅<i> Banco de Dados </i></a></li>
     <li><a href="./02-semestre-2022/desenvolvimento_humano_e_social/README.md" style="text-decoration:none;">✅<i> Desenvolvimento Humano e Social </i></a></li> 
