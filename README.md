@@ -24,11 +24,11 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
 
 <details>
   <summary>🔄 <b>2° Semestre</b></summary>
-  <ul> Iniciado dia 10/08/2022
+  <ul> Iniciado dia 10/08/2022 - Encerrado dia 20/12/2022
     <li><a href="./02-semestre-2022/banco_de_dados/README.md" style="text-decoration:none;">✅<i> Banco de Dados </i></a></li>
-    <li><a href="./02-semestre-2022/desenvolvimento_humano_e_social/README.md" style="text-decoration:none;">🔄<i> Desenvolvimento Humano e Social </i></a>update: 17/10/2022 (em andamento) </li> 
+    <li><a href="./02-semestre-2022/desenvolvimento_humano_e_social/README.md" style="text-decoration:none;">✅<i> Desenvolvimento Humano e Social </i></a></li> 
     <li><a href="./02-semestre-2022/eng_de_software/README.md" style="text-decoration:none;">✅<i> Engenharia de Software </i></a></li>
-    <li><a href="./02-semestre-2022/gestao_de_projetos/README.md" style="text-decoration:none;">🔄<i> Gestão de Projetos </i></a>update: 17/10/2022 (em andamento) </li>
+    <li><a href="./02-semestre-2022/gestao_de_projetos/README.md" style="text-decoration:none;">✅<i> Gestão de Projetos </i></a></li>
     <li><a href="./02-semestre-2022/negocios_e_empreendedorismo/README.md" style="text-decoration:none;">✅<i> Processo de Negócios e Empreendedorismo </i></a></li>
     <li><a href="./02-semestre-2022/sistemas_operacionais/README.md" style="text-decoration:none;">✅<i> Sistemas Operacionais </i></a></li>
   </ul>
