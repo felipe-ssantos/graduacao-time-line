@@ -5,7 +5,11 @@
 
 
 O objetivo deste repositório é documentar minha trajetória durante o curso tecnólogo de Sistemas para Internet na Universidade Anhembi Morumbi.
-
+<p align="center">
+<img alt="Repository size" src="https://img.shields.io/github/repo-size/fecodebr/graduacao-time-line">
+<img alt="Top language" src="https://img.shields.io/github/languages/top/fecodebr/graduacao-time-line">
+<img alt="Last commit" src="https://img.shields.io/github/last-commit/fecodebr/graduacao-time-line">
+</p>
 <br>
 
 <details>
