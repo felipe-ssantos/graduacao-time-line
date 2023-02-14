@@ -1,6 +1,6 @@
-<h1>Programacao_orientada_a_objeto</h1>
+<h1>Programação Orientada a Objetos</h1>
 
-<h2> Ementa</h2>
+<h2>Ementa</h2>
 
 *Apresenta os principais conceitos do paradigma de orientação a objetos, com ênfase em suas principais características e recursos oferecidos. São examinadas implementações de aplicações práticas, baseadas em uma linguagem de programação orientada a objetos e um ambiente integrado de desenvolvimento.*
 
