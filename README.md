@@ -82,4 +82,9 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
 
 > Subjects: Programming logic; Information Systems Theory; Communication; Social Media and Digital Marketing; web design; computer human interface; Database; Human and Social Development; Software Engineering; Project Management; Business and Entrepreneurship Process; Operating Systems; Anthropology and Brazilian Culture; Object Oriented Programming; Software Engineering Practices; Client Web Development; Computer Networks; Database Practices; Computing for Mobile Devices; Server Web Development; Statistics Applies to Data Science; Fundamentals for Technical Certification; Content Management and Web Administration; Java Web and Frameworks; E-Commerce; Projects in Distance Education; Mobile Projects; Software and Project Lab; Optional 
 
-* Update 12.01.2023
+## 📝 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+* Update 14.01.2023
