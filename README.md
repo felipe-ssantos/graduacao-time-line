@@ -12,6 +12,12 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
 </p>
 <br>
 
+------
+
+📌 **Status:** em desenvolmento...
+
+------
+
 <details>
   <summary>✅<b>1° Semestre</b></summary>
   <ul> Iniciado dia 02/05/2022
