@@ -19,21 +19,21 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
 ------
 
 <details>
-  <summary>✅<b>1° Semestre</b></summary>
-  <ul> Iniciado dia 02/05/2022
+  <summary>✅<b> 1° Semestre</b></summary>
+  <ul> Iniciado dia 02/05/2022 - Encerrado dia 30/08/2022
     <li><a href="./01-semestre-2022/logica_de_programacao/README.md" style="text-decoration:none;">✅<i> Lógica de programação </i></a></li>
     <li><a href="./01-semestre-2022/teoria_de_sistemas_de_informacao/README.md" style="text-decoration:none;">✅<i> Teoria de Sistemas de Informação </i></a></li>
     <li><a href="./01-semestre-2022/comunicacao/README.md" style="text-decoration:none;">✅<i> Comunicação </i></a></li>
     <li><a href="./01-semestre-2022/midias_sociais_e_marketing_digital/README.md" style="text-decoration:none;">🔄<i> Mídias Sociais e Marketing Digital</i></a> (pendente)</li>
-    <li><a href="./01-semestre-2022/design_para_web/README.md" style="text-decoration:none;">✅<i> Design para Web</i></a></li>
+    <li><a href="./01-semestre-2022/design_para_web/README.md" style="text-decoration:none;">🔄<i> Design para Web</i></a> (pendente)</li>
     <li><a href="./01-semestre-2022/interface_humano_computador/README.md" style="text-decoration:none;">🔄<i> Interface Humana computador</i></a> (pendente)</li>
   </ul>
   <p>Obs: Essas outras atividades que estão 'pendentes' serão concluídas em outro semestre, que ainda será informado pela universidade. Isso aconteceu porque eu ingressei na metade do semestre, quando essas disciplinas já haviam se encerrado.</p>
 </details>
 
-
 <details>
-  <summary>✅<b>2° Semestre</b></summary>
+  <summary>✅<b> 2° Semestre</b></summary>
+
   <ul> Iniciado dia 10/08/2022 - Encerrado dia 20/12/2022
     <li><a href="./02-semestre-2022/banco_de_dados/README.md" style="text-decoration:none;">✅<i> Banco de Dados </i></a></li>
     <li><a href="./02-semestre-2022/desenvolvimento_humano_e_social/README.md" style="text-decoration:none;">✅<i> Desenvolvimento Humano e Social </i></a></li> 
@@ -46,13 +46,15 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
 
 <details>
   <summary>🔄 <b>3° Semestre</b></summary>
-  <ul> 
-    <li><a href="./03-semestre-2023/antropologia_e_cultura_brasileira/README.md" style="text-decoration:none;">🔄<i> Antropologia e Cultura Brasileira </i></a> <del>(Inicia 24/04/2023)</del></li>
-    <li><a href="./03-semestre-2023/programacao_orientada_a_objeto/README.md" style="text-decoration:none;">🔄<i> Programação Orientada a Objetos</i></a> (Iniciou 13/02/2023)</li>
-    <li><a href="./03-semestre-2023/praticas_de_engenharia_de_software/README.md" style="text-decoration:none;">🔄<i> Práticas de Engenharia de Software </i></a><del>(Inicia 24/04/2023)</del></li>
-    <li><a href="./03-semestre-2023/desenvolvimento_web_cliente/README.md" style="text-decoration:none;">🔄<i> Desenvolvimento Web Cliente </i></a>(Iniciou 13/02/2023)</li>
-    <li><a href="./03-semestre-2023/redes_de_computadores/README.md" style="text-decoration:none;">🔄<i> Redes de Computadores </i></a> <del>(Inicia 24/04/2023)</del></li> 
-    <li><a href="./03-semestre-2023/praticas_de_banco_de_dados/README.md" style="text-decoration:none;">🔄<i> Práticas de Banco de Dados </i></a> <del>(Inicia 24/04/2023)</del></li> 
+  <ul> Iniciou 13/02/2023    
+    <li><a href="./03-semestre-2023/programacao_orientada_a_objeto/README.md" style="text-decoration:none;">🔄<i> Programação Orientada a Objetos</i></a></li>
+    <li><a href="./03-semestre-2023/desenvolvimento_web_cliente/README.md" style="text-decoration:none;">🔄<i> Desenvolvimento Web Cliente </i></a></li>
+    <hr>
+    <p><del>Inicia 24/04/2023</del></p>
+    <li><a href="./03-semestre-2023/praticas_de_engenharia_de_software/README.md" style="text-decoration:none;">🔄<i> Práticas de Engenharia de Software </i></a><del></del></li>    
+    <li><a href="./03-semestre-2023/redes_de_computadores/README.md" style="text-decoration:none;">🔄<i> Redes de Computadores </i></a> <del></del></li> 
+    <li><a href="./03-semestre-2023/praticas_de_banco_de_dados/README.md" style="text-decoration:none;">🔄<i> Práticas de Banco de Dados </i></a> <del></del></li> 
+    <li><a href="./03-semestre-2023/antropologia_e_cultura_brasileira/README.md" style="text-decoration:none;">🔄<i> Antropologia e Cultura Brasileira </i></a></li>
   </ul>
 </details>
 
@@ -93,4 +95,4 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-* Update 14.01.2023
+* Update 17.03.2023
