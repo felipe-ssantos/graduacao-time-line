@@ -88,7 +88,7 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
 
 #### Rede Profissional
 
-<a href="https://www.linkedin.com/in/nfss17/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/nfssantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 ------
 
 > Subjects: Programming logic; Information Systems Theory; Communication; Social Media and Digital Marketing; web design; computer human interface; Database; Human and Social Development; Software Engineering; Project Management; Business and Entrepreneurship Process; Operating Systems; Anthropology and Brazilian Culture; Object Oriented Programming; Software Engineering Practices; Client Web Development; Computer Networks; Database Practices; Computing for Mobile Devices; Server Web Development; Statistics Applies to Data Science; Fundamentals for Technical Certification; Content Management and Web Administration; Java Web and Frameworks; E-Commerce; Projects in Distance Education; Mobile Projects; Software and Project Lab; Optional 
