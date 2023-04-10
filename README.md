@@ -98,4 +98,3 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-* Update 17.03.2023
