@@ -50,8 +50,8 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
 <details>
   <summary>🔄 <b>3° Semestre</b></summary>
   <ul> Iniciou 13/02/2023    
-    <li><a href="./03-semestre-2023/programacao_orientada_a_objeto/README.md" style="text-decoration:none;">🔄<i> Programação Orientada a Objetos</i></a></li>
-    <li><a href="./03-semestre-2023/desenvolvimento_web_cliente/README.md" style="text-decoration:none;">🔄<i> Desenvolvimento Web Cliente </i></a></li>
+    <li><a href="./03-semestre-2023/programacao_orientada_a_objeto/README.md" style="text-decoration:none;">✅<i> Programação Orientada a Objetos</i></a></li>
+    <li><a href="./03-semestre-2023/desenvolvimento_web_cliente/README.md" style="text-decoration:none;">✅<i> Desenvolvimento Web Cliente </i></a></li>
     <hr>
     <p><del>Inicia 24/04/2023</del></p>
     <li><a href="./03-semestre-2023/praticas_de_engenharia_de_software/README.md" style="text-decoration:none;">🔄<i> Práticas de Engenharia de Software </i></a><del></del></li>    
