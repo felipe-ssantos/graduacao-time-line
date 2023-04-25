@@ -17,7 +17,7 @@
 
 <br><br>
 
-<p align="center"> Desenvolvido com 💜 por Felipe Silveira dos Santos 👋 <p>
+<p align="center"> Desenvolvido com 💜 por N.F.S.S 👋 <p>
 
 <br>
 

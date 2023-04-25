@@ -14,10 +14,9 @@
 - **Construção de sites compatíveis com desktop e dispositivos móveis** 
   - Construção de folhas de estilo CSS3 para compatibilidade de telas.
 
-
 <br><br>
 
-<p align="center"> Desenvolvido com 💜 por Felipe Silveira dos Santos 👋 <p>
+<p align="center"> Desenvolvido com 💜 por N.F.S.S 👋 <p>
 
 
 <br>
