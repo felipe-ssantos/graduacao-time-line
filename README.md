@@ -23,12 +23,12 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
   <ul> Iniciado dia 02/05/2022 - Encerrado dia 30/08/2022
     <li><a href="./01-semestre-2022/logica_de_programacao/README.md" style="text-decoration:none;">✅<i> Lógica de programação </i></a></li>
     <li><a href="./01-semestre-2022/teoria_de_sistemas_de_informacao/README.md" style="text-decoration:none;">✅<i> Teoria de Sistemas de Informação </i></a></li>
-    <li><a href="./01-semestre-2022/comunicacao/README.md" style="text-decoration:none;">✅<i> Comunicação </i></a></li>    
+    <li><a href="./01-semestre-2022/comunicacao/README.md" style="text-decoration:none;">✅<i> Comunicação </i></a></li>
+    <li><a href="./01-semestre-2022/design_para_web/README.md" style="text-decoration:none;">✅<i> Design para Web</i></a></li>
   </ul>    
     <hr>
     <ul>
-        <li><a href="./01-semestre-2022/midias_sociais_e_marketing_digital/README.md" style="text-decoration:none;">🔄<i> Mídias Sociais e Marketing Digital</i></a> (pendente)</li>
-    <li><a href="./01-semestre-2022/design_para_web/README.md" style="text-decoration:none;">🔄<i> Design para Web</i></a> (Iniciou 07/03/2023)</li>
+        <li><a href="./01-semestre-2022/midias_sociais_e_marketing_digital/README.md" style="text-decoration:none;">🔄<i> Mídias Sociais e Marketing Digital</i></a> (pendente)</li>    
     <li><a href="./01-semestre-2022/interface_humano_computador/README.md" style="text-decoration:none;">🔄<i> Interface Humana computador</i></a> (pentende)</li>
     </ul>
     <p>Obs: Essas outras atividades que estão 'pendentes' serão concluídas em outro semestre, que ainda será informado pela universidade. Isso aconteceu porque eu ingressei na metade do semestre, quando essas disciplinas já haviam se encerrado.</p>
@@ -37,7 +37,7 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
 <details>
   <summary>✅<b> 2° Semestre</b></summary>
 
-  <ul> Iniciado dia 10/08/2022 - Encerrado dia 20/12/2022
+  <ul> Iniciado 10/08/2022 - Encerrado 20/12/2022
     <li><a href="./02-semestre-2022/banco_de_dados/README.md" style="text-decoration:none;">✅<i> Banco de Dados </i></a></li>
     <li><a href="./02-semestre-2022/desenvolvimento_humano_e_social/README.md" style="text-decoration:none;">✅<i> Desenvolvimento Humano e Social </i></a></li> 
     <li><a href="./02-semestre-2022/eng_de_software/README.md" style="text-decoration:none;">✅<i> Engenharia de Software </i></a></li>
@@ -48,16 +48,16 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
 </details>
 
 <details>
-  <summary>🔄 <b>3° Semestre</b></summary>
-  <ul> Iniciou 13/02/2023    
+  <summary>✅ <b>3° Semestre</b></summary>
+  <ul> Iniciado 13/02/2023 - Encerrado 22/06/2023 
     <li><a href="./03-semestre-2023/programacao_orientada_a_objeto/README.md" style="text-decoration:none;">✅<i> Programação Orientada a Objetos</i></a></li>
     <li><a href="./03-semestre-2023/desenvolvimento_web_cliente/README.md" style="text-decoration:none;">✅<i> Desenvolvimento Web Cliente </i></a></li>
     <hr>
     <p>Iniciou 25/04/2023</p>
-    <li><a href="./03-semestre-2023/praticas_de_engenharia_de_software/README.md" style="text-decoration:none;">🔄<i> Práticas de Engenharia de Software </i></a><del></del></li>    
-    <li><a href="./03-semestre-2023/redes_de_computadores/README.md" style="text-decoration:none;">🔄<i> Redes de Computadores </i></a> <del></del></li> 
-    <li><a href="./03-semestre-2023/praticas_de_banco_de_dados/README.md" style="text-decoration:none;">🔄<i> Práticas de Banco de Dados </i></a> <del></del></li> 
-    <li><a href="./03-semestre-2023/antropologia_e_cultura_brasileira/README.md" style="text-decoration:none;">🔄<i> Antropologia e Cultura Brasileira </i>🤔</a></li>
+    <li><a href="./03-semestre-2023/praticas_de_engenharia_de_software/README.md" style="text-decoration:none;">✅<i> Práticas de Engenharia de Software </i></a><del></del></li>    
+    <li><a href="./03-semestre-2023/redes_de_computadores/README.md" style="text-decoration:none;">✅<i> Redes de Computadores </i></a> <del></del></li> 
+    <li><a href="./03-semestre-2023/praticas_de_banco_de_dados/README.md" style="text-decoration:none;">✅<i> Práticas de Banco de Dados </i></a> <del></del></li> 
+    <li><a href="./03-semestre-2023/antropologia_e_cultura_brasileira/README.md" style="text-decoration:none;">✅<i> Antropologia e Cultura Brasileira </i>🤔</a></li>
   </ul>
 </details>
 
