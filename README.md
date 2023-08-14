@@ -62,7 +62,7 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
 
 <details>
   <summary>🔄 <b>4° Semestre</b></summary>
-  <ul>
+  <ul>Iniciado 14/08/2023 - Encerra 10/12/2023
     <li><a href="./04-semestre-2023/computacao_para_dispositivos_moveis/README.md" style="text-decoration:none;">🔄<i> Computação para Dispositivos Móveis </i></a></li>
     <li><a href="./04-semestre-2023/desenvolvimento_web_servidor/README.md" style="text-decoration:none;">🔄<i> Desenvolvimento Web Servidor </i></a></li>
     <li><a href="./04-semestre-2023/estatistica_aplicada_ao_data_science/README.md" style="text-decoration:none;">🔄<i> Estatística Aplica ao Data Science </i></a></li>
