@@ -114,15 +114,15 @@
         }
 
         echo "Atualização realizada com sucesso!";
-    }
-    // Verificar se alguma atualização ocorreu
+
+            // Verificar se alguma atualização ocorreu
     if ($conn->affected_rows > 0) {
         echo "Atualização realizada com sucesso!";
         echo "<script>setTimeout(function() { window.location.href = '".$_SERVER['PHP_SELF']."'; }, 500);</script>"; // atualiza a dado na tabela após 0,5 segundos
     } else {
         echo "Nenhuma atualização foi realizada ou os dados são os mesmos.";
     }
-
+}
     $conn->close();
     ?>
 </body>
