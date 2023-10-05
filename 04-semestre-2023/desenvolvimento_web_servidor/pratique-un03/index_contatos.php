@@ -17,8 +17,9 @@
     $servername = "localhost";
     $username = "root";
     $password = "";
+    $banco = ""; //nome do banco
 
-    $conn = new mysqli($servername, $username, $password, "contatos");
+    $conn = new mysqli($servername, $username, $password, $banco);
 
     if ($conn->connect_error) {
         die("Erro na conexão com o banco de dados: " . $conn->connect_error);
@@ -62,7 +63,7 @@
         <p>Escolha o respectivo <strong>ID</strong> que deseja alterar. Em seguida, escolha o respectivo campo que deseja
             alterar.
             Ao realizar as alterações necessárias, clique em atualizar e o dado será atualizado na tabela acima.
-            <p><i>Para verificar se atualizou aperte a tecla de atalho <strong>F5.</strong></i></p>
+            <p><i>O dado alterado será atualizado na tabela após <strong>0,5 segundos.</strong></i></p>
         </p>
         <form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
             <div class="mb-3">
@@ -113,6 +114,13 @@
         }
 
         echo "Atualização realizada com sucesso!";
+    }
+    // Verificar se alguma atualização ocorreu
+    if ($conn->affected_rows > 0) {
+        echo "Atualização realizada com sucesso!";
+        echo "<script>setTimeout(function() { window.location.href = '".$_SERVER['PHP_SELF']."'; }, 500);</script>"; // atualiza a dado na tabela após 0,5 segundos
+    } else {
+        echo "Nenhuma atualização foi realizada ou os dados são os mesmos.";
     }
 
     $conn->close();
