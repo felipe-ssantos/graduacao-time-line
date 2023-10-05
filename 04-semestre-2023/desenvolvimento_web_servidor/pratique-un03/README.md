@@ -4,8 +4,9 @@ Este projeto demonstra como realizar operações de atualização em um banco de
 
 ---
 
-| :label: Tecnologias | PHP 8.2.4, HTML5, Bootstrap CDN, e MySQL. |
+| :label: Tecnologias | PHP 8.2.4, HTML5, Bootstrap CDN, JavaScript e MySQL. |
 | --------------- | :------------------------------------------------------ |
+| :rocket: URL do projeto | https://projetos-faculdade-uam-nfss.000webhostapp.com/         |
 | 📌 Status | Concluído.                        |
 
 O banco de dados "contatos" foi configurado com a seguinte estrutura:
