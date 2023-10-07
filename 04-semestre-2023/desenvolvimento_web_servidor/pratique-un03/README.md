@@ -40,6 +40,7 @@ Siga as etapas abaixo para executar o projeto:
 4. Adicionei algumas mensagens de alerta para sinalizar as ações realizadas no sistema, embora ainda necessitem de alguns ajustes.
 5. Incluí na tabela de contatos um botão "Excluir" para permitir que os usuários removam contatos que já tenha cadastrado.
 6. Adicionei o botão "Sair do Sistema", permitindo que os usuários se desconectem.
-7. Em breve, adicionarei o certificado SSL no site, para evitar mensagens de site inseguro em alguns navegadores.
+7. Troquei de hospedagem para melhor gerenciar os arquivos e outras funcionalidades.
+8. Em breve, adicionarei o certificado SSL no site, para evitar mensagens de site inseguro em alguns navegadores.
 
 **Observações:**Este projeto não é para fim comercial, se destina apenas para fins de atividade. Portanto, podem ocorrer alguns erros de lógica, não intencionais, devido à falta de tempo para análise detalhada. No entanto, no geral, ele atende ao que foi proposto.
