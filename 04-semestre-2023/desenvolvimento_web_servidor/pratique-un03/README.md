@@ -35,7 +35,7 @@ Siga as etapas abaixo para executar o projeto:
 *Tomei a liberdade de usar a criatividade e adicionar novas funcionalidades para teste. Apesar de não ter sido solicitado na atividade em questão. Portanto, não adicionarei mais atualizações já que se trata de um pequeno projeto, por isso pode existe pequenos erros.*
 
 1. Criei a página inicial, que serve como página de login.
-2. Implementei a página de cadastro, permitindo que os usuários se registrem para acessar a lista de contatos.
+2. Implementei a página de cadastro, permitindo que os usuários se registrem para acessar a lista de contatos. (Caso não queira se cadastrar e só conectar-se como usuário: 'teste' e senha:123456)
 3. Desenvolvi na página de "Lista de Contatos" (contatos.php) um formulário que possibilita aos usuários cadastrar novos contatos. A lista começa vazia, sendo necessário que o usuário cadastre um novo contato para que ele apareça na lista. Além disso, o 'Formulário de atualização' permanece para que o usuário possa atualizar os dados já cadastrados na lista.
 4. Adicionei algumas mensagens de alerta para sinalizar as ações realizadas no sistema, embora ainda necessitem de alguns ajustes.
 5. Incluí na tabela de contatos um botão "Excluir" para permitir que os usuários removam contatos que já tenha cadastrado.
@@ -43,4 +43,4 @@ Siga as etapas abaixo para executar o projeto:
 7. Troquei de hospedagem para melhor gerenciar os arquivos e outras funcionalidades.
 8. Em breve, adicionarei o certificado SSL no site, para evitar mensagens de site inseguro em alguns navegadores.
 
-**Observações:**Este projeto não é para fim comercial, se destina apenas para fins de atividade. Portanto, podem ocorrer alguns erros de lógica, não intencionais, devido à falta de tempo para análise detalhada. No entanto, no geral, ele atende ao que foi proposto.
+**Observações:** Este projeto não é para fim comercial, se destina apenas para fins de atividade. Portanto, podem ocorrer alguns erros de lógica, não intencionais, devido à falta de tempo para análise detalhada. No entanto, no geral, ele atende ao que foi proposto.
