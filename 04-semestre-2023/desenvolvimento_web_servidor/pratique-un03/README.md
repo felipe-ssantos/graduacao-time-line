@@ -42,6 +42,6 @@ Siga as etapas abaixo para executar o projeto:
 6. Adicionei o botão "Sair do Sistema", permitindo que os usuários se desconectem.
 7. Cada usuário possui sua lista exclusiva, portanto, pode realizar as alterações necessárias sem interferir na lista de outros usuários cadastrados no sistema.
 8. Troquei de hospedagem para melhor gerenciar os arquivos e outras funcionalidades.
-9. Em breve, adicionarei o certificado SSL no site, para evitar mensagens de site inseguro em alguns navegadores.
+9. Adicionado certificado SSL.
 
 **Observações:** Este projeto não é para fim comercial, se destina apenas para fins de atividade. Portanto, podem ocorrer alguns erros de lógica, não intencionais, devido à falta de tempo para análise detalhada. No entanto, no geral, ele atende ao que foi proposto.
