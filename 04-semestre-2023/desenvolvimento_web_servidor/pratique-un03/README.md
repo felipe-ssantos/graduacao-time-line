@@ -1,4 +1,4 @@
-# Projeto de Atualização de Contatos
+# Projeto lista de contatos
 
 Este projeto demonstra como realizar operações de atualização em um banco de dados MySQL usando PHP e foi desenvolvido como parte da atividade pratica na unidade 3 da disciplina "Desenvolvimento Web Servidor" no 4º semestre do curso de Sistemas para Internet.
 
