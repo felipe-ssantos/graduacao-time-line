@@ -6,7 +6,7 @@ Este projeto demonstra como realizar operações de atualização em um banco de
 
 | :label: Tecnologias | PHP 8.2.4, HTML5, Bootstrap CDN, JavaScript e MySQL. |
 | --------------- | :------------------------------------------------------ |
-| :rocket: URL do projeto | https://projetos-faculdade-uam-nfss.000webhostapp.com/         |
+| :rocket: URL do projeto | http://nfssfacu.wuaze.com/        |
 | 📌 Status | Em desenvolvimento...                        |
 
 O banco de dados "contatos" foi configurado com a seguinte estrutura:
@@ -27,3 +27,18 @@ Siga as etapas abaixo para executar o projeto:
 8. Preencha os campos com as novas informações desejadas (novo nome, novo sobrenome, novo email).
 9. Clique no botão "Atualizar" para enviar o formulário e atualizar os dados na tabela.
 10. Você receberá uma mensagem de confirmação após a atualização bem-sucedida.
+
+---
+
+### Novas funcionalidades
+
+*Tomei a liberdade de usar a criatividade e adicionar novas funcionalidades para teste. Apesar de não ter sido solicitado na atividade em questão. Portanto, não adicionarei mais atualizações já que se trata de um pequeno projeto, por isso pode existe pequenos erros.*
+
+1. Criei a página inicial, que serve como página de login.
+2. Implementei a página de cadastro, permitindo que os usuários se registrem para acessar a lista de contatos.
+3. Desenvolvi na página de "Lista de Contatos" (contatos.php) um formulário que possibilita aos usuários cadastrar novos contatos. A lista começa vazia, sendo necessário que o usuário cadastre um novo contato para que ele apareça na lista. Além disso, o 'Formulário de atualização' permanece para que o usuário possa atualizar os dados já cadastrados na lista.
+4. Adicionei algumas mensagens de alerta para sinalizar as ações realizadas no sistema, embora ainda necessitem de alguns ajustes.
+5. Incluí na tabela de contatos um botão "Excluir" para permitir que os usuários removam contatos que já tenha cadastrado.
+6. Adicionei o botão "Sair do Sistema", permitindo que os usuários se desconectem.
+
+**Observações:**Este projeto não é para fim comercial, se destina apenas para fins de atividade. Portanto, podem ocorrer alguns erros de lógica, não intencionais, devido à falta de tempo para análise detalhada. No entanto, no geral, ele atende ao que foi proposto.
