@@ -63,11 +63,11 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
 <details>
   <summary>🔄 <b>4° Semestre</b></summary>
   <ul>Iniciado 14/08/2023 - Encerra 10/12/2023
-    <li><a href="./04-semestre-2023/computacao_para_dispositivos_moveis/README.md" style="text-decoration:none;">🔄<i> Computação para Dispositivos Móveis </i></a></li>
+    <li><a href="./04-semestre-2023/computacao_para_dispositivos_moveis/README.md" style="text-decoration:none;">✅<i> Computação para Dispositivos Móveis </i></a></li>
     <li><a href="./04-semestre-2023/desenvolvimento_web_servidor/README.md" style="text-decoration:none;">🔄<i> Desenvolvimento Web Servidor </i></a></li>
     <li><a href="./04-semestre-2023/estatistica_aplicada_ao_data_science/README.md" style="text-decoration:none;">🔄<i> Estatística Aplica ao Data Science </i></a></li>
     <li><a href="./04-semestre-2023/fundamentos_para_certificacao_tecnica/README.md" style="text-decoration:none;">🔄<i> Fundamentos para Certificação Técnica </i></a></li>
-    <li><a href="./04-semestre-2023/gestao_de_conteudo_e_administracao_web/README.md" style="text-decoration:none;">🔄<i> Gestão de Conteúdo e Administração Web </i></a></li>
+    <li><a href="./04-semestre-2023/gestao_de_conteudo_e_administracao_web/README.md" style="text-decoration:none;">✅<i> Gestão de Conteúdo e Administração Web </i></a></li>
     <li><a href="./04-semestre-2023/java_web_e_freamworks/README.md" style="text-decoration:none;">🔄<i> Java Web e Frameworks</i></a></li>
   </ul>
 </details>
