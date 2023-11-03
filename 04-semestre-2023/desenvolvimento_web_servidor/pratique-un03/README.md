@@ -43,7 +43,7 @@ Siga as etapas abaixo para executar o projeto:
 7. Cada usuário possui sua lista exclusiva, portanto, pode realizar as alterações necessárias sem interferir na lista de outros usuários cadastrados no sistema.
 8. Troquei de hospedagem para melhor gerenciar os arquivos e outras funcionalidades.
 9. Adicionado certificado SSL.
-10. Cada usuário tem sua lista de contatos única/individualizada, mas não pode cadastrar o mesmo e-mail que outro usuário já tenha em sua lista de contatos. Se isso ocorrer o usuário será avisado e redirecionado de volta para a página de contatos.
+10. Cada usuário tem sua lista de contatos única/individualizada, mas não pode cadastrar o mesmo e-mail que outro usuário já tenha em sua lista de contatos. Se isso ocorrer o usuário será avisado em uma página de erro e redirecionado de volta para a página de contatos.
 11. No formulário para cadastrar novos contatos foi adicionado uma condição em que o usuário só pode escreve no campo nome e sobrenome valor do tipo 'string'. Antes era possível ter contatos do tipo 'inteiro'.
 
 **Observações:** Este projeto não é para fim comercial, se destina apenas para fins de atividade. Portanto, podem ocorrer alguns erros de lógica, não intencionais, devido à falta de tempo para análise detalhada. No entanto, no geral, ele atende ao que foi proposto.
