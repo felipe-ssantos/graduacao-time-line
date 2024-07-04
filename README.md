@@ -73,13 +73,13 @@ O objetivo deste repositório é documentar minha trajetória durante o curso te
 </details>
 
 <details>
-  <summary>🔄 <b>5° Semestre</b></summary>
+  <summary>✅ <b>5° Semestre</b></summary>
   <ul>
     <li><a href="./05-semestre-2024/comercio_eletronico/README.md" style="text-decoration:none;">✅<i> Comércio Eletrônico</i></a></li>
-    <li><a href="./05-semestre-2024/projetos_em_educacao_a_distancia/README.md" style="text-decoration:none;">🔄<i> Projetos em Educação a Distância </i></a></li>
+    <li><a href="./05-semestre-2024/projetos_em_educacao_a_distancia/README.md" style="text-decoration:none;">✅<i> Projetos em Educação a Distância </i></a></li>
     <li><a href="./05-semestre-2024/projetos_mobile/README.md" style="text-decoration:none;">✅<i> Projetos Mobile</i></a></li>
-    <li><a href="./05-semestre-2024/laboratorio_de_software_e_projetos/README.md" style="text-decoration:none;">🔄<i> Laboratório de Software e Projetos </i></a></li>
-    <li><a href="./optativa/README.md" style="text-decoration:none;">🔄<i> Optativa | Engenharia de Qualidade </i></a></li>    
+    <li><a href="./05-semestre-2024/laboratorio_de_software_e_projetos/README.md" style="text-decoration:none;">✅<i> Laboratório de Software e Projetos </i></a></li>
+    <li><a href="./optativa/README.md" style="text-decoration:none;">✅<i> Optativa | Engenharia de Qualidade </i></a></li>    
   </ul>
 </details>
 
